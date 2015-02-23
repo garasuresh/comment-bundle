@@ -8,6 +8,10 @@
     ],
     "require": {},
 
+    "autoload": {
+        "psr-4": { "Project\\CommentBundle\\": "" }
+    },
+
     "extra": {
         "branch-alias": {
             "dev-master": "master"
