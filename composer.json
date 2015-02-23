@@ -1,0 +1,18 @@
+{
+    "name": "suresh/comment-bundle",
+    "authors": [
+        {
+            "name": "suresh",
+            "email": "sureshgara1@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        }
+    },
+    "minimum-stability": "stable"
+
+}
